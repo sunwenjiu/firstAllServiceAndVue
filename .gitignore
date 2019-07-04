@@ -3,7 +3,7 @@ ame_ser.iml
 HELP.md
 mvnw
 mvnw.cmd
-src/main/resources/
+#src/main/resources/
 target/**
 .application-yc.yml
 /nbproject/
