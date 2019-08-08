@@ -21,3 +21,9 @@ java
 
         return sortDicts;
     }
+
+树节点 隐藏子节点的添加
+  style: {
+              marginRight: '8px',
+              display: (data.parentId === '0')?"inline-block":"none"
+            },
