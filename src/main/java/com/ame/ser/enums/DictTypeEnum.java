@@ -1,0 +1,1 @@
+package com.ame.ser.enums;/** * 字典类型枚举 * @author SWJ */public enum  DictTypeEnum {    /**     * 0:事件发生场所     */    EVENT_HAPPEN_PLACE,    /**     * 1:报告人     */    REPORTER;}
