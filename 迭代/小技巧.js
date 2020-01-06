@@ -1,3 +1,6 @@
+包含
+v-show="!selectArr.includes(itemMain.value)"
+
 java
 =======================================================
   public  List<Dict> findAll() {
